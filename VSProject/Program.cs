@@ -8,6 +8,7 @@ namespace VSProject
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello Prashanth!");
+            Console.WriteLine("Hello Vinay!");
         }
     }
 }
