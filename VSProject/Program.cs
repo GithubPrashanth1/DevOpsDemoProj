@@ -9,7 +9,7 @@ namespace VSProject
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello Prashanth!");
             Console.WriteLine("Hello Vinay!");
-            Console.WriteLine("Hello Viny2!");
+            Console.WriteLine("Hello Viy2!");
         }
     }
 }
